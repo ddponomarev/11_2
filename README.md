@@ -8,13 +8,13 @@
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
-![Задание1](https://github.com/ddponomarev/11_1/blob/master/img/z1_1.png)
+![Задание1](https://github.com/ddponomarev/11_2/blob/master/img/z1_1.png)
 
 1.4. Дайте все права для пользователя sys_temp.
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
-![Задание1](https://github.com/ddponomarev/11_1/blob/master/img/z1_2.png)
+![Задание1](https://github.com/ddponomarev/11_2/blob/master/img/z1_2.png)
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
@@ -27,6 +27,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.7. Восстановите дамп в базу данных.
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
+
 ![Задание1](https://github.com/ddponomarev/11_1/blob/master/img/z1_3.png)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
