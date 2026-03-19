@@ -60,7 +60,7 @@ customer         | customer_id
 
 3.2. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
-![Задание3](https://github.com/ddponomarev/11_3/blob/master/img/z3.png)
+![Задание3](https://github.com/ddponomarev/11_2/blob/master/img/z3.png)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
