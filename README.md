@@ -60,9 +60,13 @@ customer         | customer_id
 
 3.2. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
+![Задание3](https://github.com/ddponomarev/11_3/blob/master/img/z3.png)
+
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
-![Задание3](https://github.com/ddponomarev/11-1/blob/master/img/z3.png)
-
+```
+REVOKE INSERT, UPDATE, DELETE ON sakila.* FROM 'sys_temp'@'%';
+SHOW GRANTS FOR 'sys_temp'@'%';
+```
 
 -
