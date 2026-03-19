@@ -49,8 +49,9 @@ SHOW GRANTS FOR 'sys_temp'@'%';
 customer         | customer_id
 ```
 
+![Задание2](https://github.com/ddponomarev/11_2/blob/master/img/z2.png)
 
-![Задание2](https://github.com/ddponomarev/11-1/blob/master/img/z2.png)
+![File](https://github.com/ddponomarev/11_2/blob/master/img/z2.xlsx)
 
 ---
 
