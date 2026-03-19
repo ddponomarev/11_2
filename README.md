@@ -28,7 +28,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
-![Задание1](https://github.com/ddponomarev/11_1/blob/master/img/z1_3.png)
+![Задание1](https://github.com/ddponomarev/11_2/blob/master/img/z1_3.png)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
